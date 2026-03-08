@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "crow_nest.aternos.me",
+    "port": 39405,
     "version": "1.21.1"
   },
   "position": {
